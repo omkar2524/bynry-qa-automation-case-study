@@ -1,0 +1,22 @@
+{
+  "company1_admin": {
+    "email": "admin@company1.com",
+    "role": "Admin",
+    "tenant": "company1"
+  },
+  "company1_manager": {
+    "email": "manager@company1.com",
+    "role": "Manager",
+    "tenant": "company1"
+  },
+  "company1_employee": {
+    "email": "employee@company1.com",
+    "role": "Employee",
+    "tenant": "company1"
+  },
+  "company2_employee": {
+    "email": "user@company2.com",
+    "role": "Employee",
+    "tenant": "company2"
+  }
+}
