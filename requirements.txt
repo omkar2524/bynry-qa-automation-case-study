@@ -2,5 +2,6 @@ pytest
 playwright
 pytest-playwright
 pytest-xdist
+pytest-html
 python-dotenv
 requests
